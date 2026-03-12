@@ -19,7 +19,7 @@ git push -u origin main
 
 
 
-
+shopify theme dev --store peeters-tweewielers-2026.myshopify.com
 
 
 
