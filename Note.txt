@@ -1,0 +1,99 @@
+echo "# Peeters-Tweewielers" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sHimelCSE/Peeters-Tweewielers.git
+git push -u origin main
+
+
+git remote add origin https://github.com/sHimelCSE/Peeters-Tweewielers.git
+git branch -M main
+git push -u origin main
+
+
+git add .
+git commit -m "Update"
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.google.com/search?q=using+theme+access+password+how+to+connect+shopify&rlz=1C1KNTJ_enBD1104BD1104&oq=using+theme+access+password+how+to+connect+shopify&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRifBTIHCAQQIRifBTIHCAUQIRifBTIHCAYQIRifBTIHCAcQIRifBTIHCAgQIRifBTIHCAkQIRifBdIBCTIyMTUwajBqN6gCCLACAfEFe485EFvAkJTxBXuPORBbwJCU&sourceid=chrome&ie=UTF-8
+
+shopify theme pull --password [your-password] --store [your-store.myshopify.com]
+
+shopify theme push --password [your-password] --store [your-store.myshopify.com]
+
+shptka_938bedbe87556956a663ed703f4c9620
+shopify theme push --password shptka_938bedbe87556956a663ed703f4c9620 --store peeters-tweewielers-2026.myshopify.com
+
+shopify theme pull --password shptka_938bedbe87556956a663ed703f4c9620 --store peeters-tweewielers-2026.myshopify.com
+
+'
+
+
+
+'
+
+'
+
+
+
+'
+
+'
+
+Shopify work on vs code command
+1st node js update
+2nd shopify cli command - npm install -g @shopify/cli@latest
+
+3rd CLi auto install - npm list -g @shopify/cli
+
+
+Press Win + R
+
+Type:
+
+sysdm.cpl
+
+
+Go to Advanced
+
+Click Environment Variables
+
+Under User variables, select Path
+
+Click Edit
+
+Click New
+
+Paste:
+
+C:\Users\Himel\AppData\Roaming\npm
+
+
+Click OK → OK → OK
+
+🔴 Completely close:
+
+VS Code
+
+PowerShell
+
+CMD
+
+Reopen VS Code
+
