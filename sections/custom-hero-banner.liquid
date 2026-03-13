@@ -1,0 +1,31 @@
+<h1>{{ section.settings.title }}</h1>
+{{ section.settings.image |  image_url: width:'1200' |  image_tag  }}
+
+
+{% schema %}
+{
+    "name": "Custom Hero Banner",
+    "settings": [
+        {
+            "type": "header",
+            "content": "image area"
+        },
+        {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image"
+        },
+        {
+            "type": "text",
+            "id": "title",
+            "label": "Title",
+            "default": "This is Heading"
+}
+        ],
+        "presets": [
+            {
+                "name": "Custom Hero Banner"
+            }
+        ]
+}
+{% endschema %}

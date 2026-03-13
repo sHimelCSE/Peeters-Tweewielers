@@ -1,3 +1,30 @@
+
+
+shopify theme push --password shptka_938bedbe87556956a663ed703f4c9620 --store peeters-tweewielers-2026.myshopify.com
+
+shopify theme pull --password shptka_938bedbe87556956a663ed703f4c9620 --store peeters-tweewielers-2026.myshopify.com
+
+shopify theme dev --store peeters-tweewielers-2026.myshopify.com
+
+
+1st pull -> then run -> work -> push
+
+for structure maintain
+1st create structure mean dynamic file -> then push -> on live add section and save -> then pull -> then design or structure then push -> result auto show correctly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 echo "# Peeters-Tweewielers" >> README.md
 git init
 git add README.md
@@ -14,7 +41,6 @@ git push -u origin main
 
 git add .
 git commit -m "Update"
-git branch -M main
 git push -u origin main
 
 
@@ -42,6 +68,8 @@ shptka_938bedbe87556956a663ed703f4c9620
 shopify theme push --password shptka_938bedbe87556956a663ed703f4c9620 --store peeters-tweewielers-2026.myshopify.com
 
 shopify theme pull --password shptka_938bedbe87556956a663ed703f4c9620 --store peeters-tweewielers-2026.myshopify.com
+
+shopify theme dev --store peeters-tweewielers-2026.myshopify.com
 
 '
 
